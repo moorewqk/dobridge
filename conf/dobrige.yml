@@ -9,6 +9,7 @@ jenkins:
     url:
     user:
     password:
+    token:
 
 harbor:
   url:
@@ -20,5 +21,9 @@ k8s:
 
 #扫描代码服务
 sonar:
+  url:
+  user:
+  password:
+  token:
 
 
