@@ -1,0 +1,24 @@
+app: dobrige
+  port: 8081
+
+gitlab:
+    url:
+    token:
+
+jenkins:
+    url:
+    user:
+    password:
+
+harbor:
+  url:
+  user:
+  password:
+
+k8s:
+  kbconfig: "../conf/kubeconfig.yml"
+
+#扫描代码服务
+sonar:
+
+
